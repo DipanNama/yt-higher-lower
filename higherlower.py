@@ -1,3 +1,5 @@
+#!/usr/bun/env python
+
 import random
 from youtube_api import YouTubeDataAPI
 
